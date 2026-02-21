@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Build / binaries
+*.exe
+*.bin
+*.hex
+*.elf
+
+# Arduino/PlatformIO/IDE
+*.ino.cpp
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# VS Code
+.vscode/
+browse.db
